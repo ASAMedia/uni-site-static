@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://axel-schorcht.de",
+    "contentApiKey": "9d9b0e0f1dfc8bcc6cfd29f856"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://axel-schorcht.de",
+    "contentApiKey": "9d9b0e0f1dfc8bcc6cfd29f856"
   }
 }
