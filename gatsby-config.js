@@ -63,7 +63,7 @@ module.exports = {
                     : ghostConfig.production,
         },
         /**
-         *  Utility Plugins
+         *  Utility Plugin s
          */
         {
             resolve: `gatsby-plugin-ghost-manifest`,
